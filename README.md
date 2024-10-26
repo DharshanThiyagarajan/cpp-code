@@ -1,4 +1,3 @@
-# cpp-code #simple code #to find leap year or not
 #include<bits/stdc++.h> 
 using namespace std;
 class Solution{
